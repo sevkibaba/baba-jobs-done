@@ -1,0 +1,29 @@
+{
+  "name": "baba-jobs-done",
+  "version": "1.0.0",
+  "description": "Record jobs with timestamp",
+  "main": "src/index.js",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevkibaba/baba-jobs-done.git"
+  },
+  "keywords": [
+    "append",
+    "text",
+    "console",
+    "date"
+  ],
+  "author": "Sevki Yontem <sevkiyontem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sevkibaba/baba-jobs-done/issues"
+  },
+  "homepage": "https://github.com/sevkibaba/baba-jobs-done#readme"
+}
